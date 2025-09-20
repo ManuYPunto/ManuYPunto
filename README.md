@@ -34,7 +34,7 @@ Desarrollador web Full Stack en formación con pasión por crear **proyectos fun
 - Copiado de correos con feedback visual mediante **pop-ups**.  
 - Animaciones de menús y SVG interactivas.  
 
-*(Puedes ver todos los proyectos en la sección [Proyectos](#proyectos))*
+*(Puedes ver todos los proyectos en la sección de repositorios)*
 
 ---
 
@@ -55,7 +55,6 @@ Desarrollador web Full Stack en formación con pasión por crear **proyectos fun
 ## 📫 Contacto
 
 - Correo: malomu95@gmail.com  
-- GitHub: [https://github.com/tu-usuario](https://github.com/tu-usuario)  
 
 ---
 
